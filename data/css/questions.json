@@ -7,7 +7,7 @@
       "answers": [
         {
           "answer": "font-size: 20px;, color: green;",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "font-size: 15px;, color: red;",

@@ -55,8 +55,11 @@
           "data": "Þegar við skrifum HTML eru þetta elmentin sem við skoðum m.t.t. merkingarfræði áður en við grípum eitthvað almennt. Til að aðstoða við leit er gott að nota skilgreiningar W3C, HTML5 Element Index hjá HTML5 Doctor, MDN: HTML element reference eða W3C: The Elements of HTML."
         },
         {
+          "type": "heading",
+          "data": "<html>"
+        },
+        {
           "type": "list",
-          "title": "<html>",
           "data": [
             "Rót HTML síðu er alltaf skilgreind með <html>",
             "lang attribute er æskilegt þar sem það skilgreinir á hvaða máli síðan er og er notuð af t.d. lesvöfrum til að velja tungumál",

@@ -1,5 +1,7 @@
 # Vefforritun 1, 2024, hópverkefni 2
 
+- [Fyrirlestur 11.3: Hópverkefni 2 (22:55)](https://youtu.be/oi4pSYgvX2M)
+
 ## Verkefnalýsing
 
 Verkefnið felst í að birta gefið efni um vefforritun á mismunandi síðum.
@@ -285,7 +287,7 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.2
+> Útgáfa 0.3
 
 ---
 
@@ -295,3 +297,4 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20
 | ------ | --------------------------------------- |
 | 0.1    | Fyrsta útgáfa                           |
 | 0.2    | Bæta við gögnum og skilgreiningu á þeim |
+| 0.3    | Lagfæringar á gögnum; kynning í f11     |
