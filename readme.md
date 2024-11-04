@@ -1,6 +1,8 @@
 # Vefforritun 1, 2024, hópverkefni 2
 
 - [Fyrirlestur 11.3: Hópverkefni 2 (22:55)](https://youtu.be/oi4pSYgvX2M)
+- [Fyrirlestur 12.2: Hópverkefni 2 inngangur (1:13:51)](https://www.youtube.com/watch?v=NoAVU4wzceg)
+  - [GitHub repo með því sem unnið var í tíma](https://github.com/vefforritun/vef1-2024-h2-ur-fyrirlestri)
 
 ## Verkefnalýsing
 
