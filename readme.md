@@ -57,7 +57,7 @@ Forsíða (`/`) sýnir yfirlit. Fyrir hvern flokk skal nota querystring (hægt a
 
 #### Birting á námsefni, gildir sem tvö auka verkefni
 
-Efnið sem gefið er í `data/html/content.json`, `data/css/content.json`, `data/js/content.json` skal birta á sérstakri síðu.
+Efnið sem gefið er í `data/html/lectures.json`, `data/css/lectures.json`, `data/js/lectures.json` skal birta á sérstakri síðu.
 
 #### Birting á lykilhugtökum
 
@@ -289,7 +289,7 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.3
+> Útgáfa 0.4
 
 ---
 
@@ -300,3 +300,4 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20
 | 0.1    | Fyrsta útgáfa                           |
 | 0.2    | Bæta við gögnum og skilgreiningu á þeim |
 | 0.3    | Lagfæringar á gögnum; kynning í f11     |
+| 0.4    | content.json => lectures.json           |
